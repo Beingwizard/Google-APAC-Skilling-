@@ -4,6 +4,8 @@ The **Google APAC Skilling Program** is a community-led initiative by the **Goog
 
 This closed-cohort learning journey is exclusively for **APAC communities** in collaboration with **community partners**, enabling members to learn directly from **Google Global AI Blackbelts**.
 
+👉 More details here: [Google GenAI SkillUp – Initiative Link](https://www.id8devhub.com/community/genai-skills-accelerator/events/genai-skillup)
+
 ---
 
 ## 🎯 Who Can Participate?
@@ -30,7 +32,7 @@ By partnering in this initiative, community leaders can:
 ## 📌 Process to Participate as a Community Partner
 
 1. **Sign-up:** Community leader fills the interest form and signs an MoU.
-2. **Branding:** Community leader shares brand kit (logo, guidelines). ID8 team creates UTMs + social media creatives.
+2. **Branding:** Community leader shares brand kit (logo, guidelines). ID8NXT team creates UTMs + social media creatives.
 3. **Promotion:** Community leader shares creatives to drive **community registrations**.
 4. **RSVP:** Members register and secure their place in the cohort.
 5. **Learning:** Members attend the **hands-on Google AI training sessions**.
@@ -42,7 +44,7 @@ By partnering in this initiative, community leaders can:
 
 | Date             | Topic                                          | Speaker                                                   | Duration       |
 | ---------------- | ---------------------------------------------- | --------------------------------------------------------- | -------------- |
-| **22 Aug 2025**   | *Get started with Agent Development Kit (ADK)* | Hardik Jain, Applied AI Engineer – Blackbelt              | 2 hrs Hands-on |
+| **22 Aug 2025**  | *Get started with Agent Development Kit (ADK)* | Hardik Jain, Applied AI Engineer – Blackbelt              | 2 hrs Hands-on |
 | **29 Aug 2025**  | *Empower ADK agents with tools*                | Pavithra Sainath, Generative AI Specialist – Google Cloud | 2 hrs Hands-on |
 | **12 Sept 2025** | *Build multi-agent systems with ADK*           | Kartik Jain, Applied AI Blackbelt                         | 2 hrs Hands-on |
 | **26 Sept 2025** | *Deploy ADK agents to Agent Engine*            | Pili Hu, Generative AI Global Blackbelt                   | 2 hrs Hands-on |
@@ -66,5 +68,13 @@ Each session will be **hands-on** and structured as follows:
 * Gain hands-on experience with the **Agent Development Kit (ADK)** and **Agent Engine**.
 * Build skills in **multi-agent system design** and tool integration.
 * Earn a **Google GenAI Certified Badge** upon successful completion.
+
+---
+
+## ℹ️ Important Note
+
+**ID8NXT** is serving as the **community facilitator** for this program, ensuring smooth onboarding of partners and community coordination. However, the **entire cohort training and learning journey will be managed by the Google AI team**.
+
+👉 [Learn more about the initiative here](https://www.id8devhub.com/community/genai-skills-accelerator/events/genai-skillup)
 
 ---
